@@ -1,0 +1,72 @@
+# Archivos y carpetas de Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos de Autocompletado
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Archivos del sistema
+*.DS_Store
+.DS_Store?
+._*
+[Tt]humbs.db
+[Dd]esktop.ini
+*.swp
+*.lock
+*.log
+*.prefs
+*.mode1
+*.mode1v3
+*.mode2
+*.mode2v3
+*.filelock
+
+# Carpetas de Visual Studio Code
+.vscode/
+
+# Archivos de configuración de Visual Studio
+.vs/
+.idea/
+*.csproj.DotSettings
+
+# Archivos de Builds y paquetes
+[Bb]uilds/
+[Pp]ackages/
+[Pp]rojectSettings/UnityConnectSettings.asset
+
+# Archivos de configuración de Unity Cloud Build
+[Uu]ser[Ss]ettings/
+
+# Archivos de configuración de MacOS
+*.xcworkspace/
+xcuserdata/
+
+# Crash y registro de errores
+crashlytics/
+Fabric/
+*.dmp
+*.crash
+
+# Archivos de compilación de Unity y plataforma
+Assets/StreamingAssets/*.apk
+Assets/StreamingAssets/*.aab
+Assets/StreamingAssets/*.ipa
+
+# Opcional: Archivos de cache de Unity
+# Podría incluirse para evitar conflictos entre desarrolladores al colaborar
+AssetStore/
+
